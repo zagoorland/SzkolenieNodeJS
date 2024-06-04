@@ -1,0 +1,44 @@
+[
+  {
+    "Wiek": 28,
+    "Imie": "Marcin",
+    "Nazwisko": "Kowalski",
+    "Miasto": "Gdańsk",
+    "Status": "todo"
+  },
+  {
+    "Wiek": 20,
+    "Imie": "Hania",
+    "Nazwisko": "Makulska",
+    "Miasto": "Gdynia",
+    "Status": "todo"
+  },
+  {
+    "Wiek": 34,
+    "Imie": "Jadwiga",
+    "Nazwisko": "Boska",
+    "Miasto": "Tczew",
+    "Status": "onhold"
+  },
+  {
+    "Wiek": 46,
+    "Imie": "Marian",
+    "Nazwisko": "Kwoczek",
+    "Miasto": "Gdańsk",
+    "Status": "done"
+  },
+  {
+    "Wiek": 17,
+    "Imie": "Kuba",
+    "Nazwisko": "Zakiper",
+    "Miasto": "Gdańsk",
+    "Status": "done"
+  },
+  {
+    "Wiek": 19,
+    "Imie": "Oskar",
+    "Nazwisko": "Rudzik",
+    "Miasto": "Tczew",
+    "Status": "todo"
+  }
+]

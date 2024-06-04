@@ -1,0 +1,20 @@
+{
+  "name": "szkolenienodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SzkolenieOKE",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinJarowski/SzkolenieNodeJS.git"
+  },
+  "author": "Marcin Jarowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinJarowski/SzkolenieNodeJS/issues"
+  },
+  "homepage": "https://github.com/MarcinJarowski/SzkolenieNodeJS#readme"
+}
