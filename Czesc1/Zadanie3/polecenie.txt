@@ -1,0 +1,1 @@
+Na podstawie danych z pliku dane.json stwórz foldery z nazwami miast.
