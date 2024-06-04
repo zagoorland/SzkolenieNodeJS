@@ -1,2 +1,2 @@
-1. Stwórz synchroniczną i reużywalną funkcję która będzie odczytywać dane z pliku JSON.
+1. Stwórz synchroniczną funkcję która będzie odczytywać dane z pliku JSON.
 2. Użyj funkcji aby odczytać dane z pliku "dane.json" i wyświetl je w konsoli.

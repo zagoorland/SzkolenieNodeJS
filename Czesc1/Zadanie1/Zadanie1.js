@@ -1,8 +1,8 @@
 import fs from "fs";
 
-export const readData = (path) => {
+export const readData = () => {
   try {
-    const data = fs.readFileSync(path);
+    const data = fs.readFileSync("dane.json");
     const dataParsed = JSON.parse(data);
     return dataParsed;
   } catch (err) {
@@ -10,5 +10,5 @@ export const readData = (path) => {
   }
 };
 
-const dane = readData("dane.json");
+const dane = readData();
 console.log(dane);
