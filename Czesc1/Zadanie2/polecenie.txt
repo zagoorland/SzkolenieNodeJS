@@ -1,0 +1,1 @@
+Na podstawie rozwiązań z zadania 1 i danych z pliku “dane.json”, stwórz dla każdej osoby plik Miasto-Imie-Nazwisko-.json. Pliki umieść w folderze Zadanie2.
