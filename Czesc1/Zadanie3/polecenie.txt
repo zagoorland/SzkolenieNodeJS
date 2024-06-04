@@ -1,1 +1,2 @@
-Na podstawie danych z pliku dane.json stwórz foldery z nazwami miast.
+ Na podstawie danych z pliku dane.json stwórz foldery z nazwami miast.
+ Następnie stwórz pliki osób i umieść je w odpowiednich folderach.
