@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarcinJarowski/SzkolenieNodeJS/issues"
   },
-  "homepage": "https://github.com/MarcinJarowski/SzkolenieNodeJS#readme"
+  "homepage": "https://github.com/MarcinJarowski/SzkolenieNodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
